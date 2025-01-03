@@ -15,8 +15,7 @@ After installation is complete, please download the required ONNX format models 
    - **Processed Model via ControlNet**: Download from [ssslvky/lcm-hed-onnx](https://huggingface.co/ssslvky/lcm-hed-onnx)
 
 # About This Project
-
-This project is developed based on [OnnxStack](https://github.com/TensorStack-AI/OnnxStack) and incorporates the following technologies:
+This project is supported by AMD and developed based on [OnnxStack](https://github.com/TensorStack-AI/OnnxStack) and incorporates the following technologies:
 
 1. **Stable Diffusion with C# and ONNX Runtime**  
    By Cassie Breviu ([@cassiebreviu](https://github.com/cassiebreviu))  
