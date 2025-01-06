@@ -1,4 +1,4 @@
-                       ![1](https://github.com/user-attachments/assets/11151cbb-d2a0-42b1-9553-a9f6da62b139)
+![1](https://github.com/user-attachments/assets/11151cbb-d2a0-42b1-9553-a9f6da62b139)
 
 
 # Thewake ChiliPainter Software
