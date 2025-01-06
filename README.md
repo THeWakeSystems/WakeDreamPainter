@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="http://git.thewakesystems.com:8001/image/lajiao/1.jpg" width="400"/>
+  <img src="http://git.thewakesystems.com:8001/image/lajiao/1.jpg" width="500"/>
 </p>
 
 
 # Thewake ChiliPainter Software
-ChiliPainter is an Al-supported painting software, special designed for AMD Ryzen CPucomputation.
-ChiliPainter is developed by AMD -Thewake Systems Al Application Joint Laboratory and sponsored by AMD.
+ChiliPainter is an Al-supported painting software, special designed for AMD Ryzen CPU computation.
+ChiliPainter is developed by AMD - Thewake Systems AI Application Joint Laboratory and sponsored by AMD.
 
 # WakeDreamPainter Installation Instructions
 After downloading the software from the Release Tag, you can directly install it. 
