@@ -1,6 +1,8 @@
-# WakeDreamPainter Installation Instructions
+# Thewake ChiliPainter Software
 ChiliPainter is an Al-supported painting software, special designed for AMD Ryzen CPucomputation.
 ChiliPainter is developed by AMD -Thewake Systems Al Application JointLaboratory and sponsored by AMD.
+
+# WakeDreamPainter Installation Instructions
 After downloading the software from the Release Tag, you can directly install it. 
 
 ## Post-Installation Steps
