@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://git.thewakesystems.com:8001/image/lajiao/1.jpg" width="500"/>
+  <img src="http://git.thewakesystems.com:8001/image/lajiao/chili.jpeg" width="400"/>
 </p>
 
 
