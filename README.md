@@ -1,4 +1,6 @@
-![1](https://github.com/user-attachments/assets/11151cbb-d2a0-42b1-9553-a9f6da62b139)
+<p align="center">
+  <img src="http://git.thewakesystems.com:8001/image/lajiao/1.jpg" width="400"/>
+</p>
 
 
 # Thewake ChiliPainter Software
