@@ -1,4 +1,5 @@
-
+[logo](http://git.thewakesystems.com:8001/image/lajiao/1.jpg)
+![1](https://github.com/user-attachments/assets/a6982c5e-3484-49cb-9e4d-66a20bcfe594)
 
 # Thewake ChiliPainter Software
 ChiliPainter is an Al-supported painting software, special designed for AMD Ryzen CPucomputation.
